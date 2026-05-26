@@ -1,2 +1,1 @@
-# Syfile
-Desktop application to optimize and organize your files efficiently, privately and completely locally without deleting anything.
+¡Welcome to Syfile!, First version of the app brings a new experience of how we storage the files, real optimization, efficient organization, all private and local, your files in one click.
